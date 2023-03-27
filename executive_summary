@@ -1,0 +1,13 @@
+# Executive Summary: Real Estate Listings Web App
+
+The Real Estate Listings Web App is a Python-based platform that provides users with an easy-to-use interface to search for real estate properties in the US and get actual price predictions using the Random Forest Regressor algorithm. This project utilizes the Scikit-learn library, Realty Mole Property API, Pandas, Folium, and Streamlit to provide a seamless user experience.
+
+The app has two primary functionalities: the search listings feature and the actual price prediction feature. Users can search for properties by selecting a state, city, and number of listings, and the app will display a table with the selected listings. Additionally, users can enter an address in a text input, and the app will use the Random Forest Regressor algorithm to predict the actual price of the property.
+
+The Real Estate Listings Web App also provides calculations for investors to evaluate the potential profitability of a property. These calculations include monthly mortgage payments, monthly rent, monthly expenses, cash flow, cap rate, and cash-on-cash return. These metrics are displayed in a table for each property, along with other relevant details.
+
+Future improvements to this project could include adding more search criteria, using a different algorithm to improve price prediction accuracy, and implementing a database to store search results and predicted prices.
+
+Overall, the Real Estate Listings Web App is a valuable tool for anyone interested in real estate investment, providing users with easy access to real estate data and price predictions.
+
+
